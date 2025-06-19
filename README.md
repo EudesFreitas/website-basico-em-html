@@ -1,2 +1,2 @@
 # website-basico-em-html
-Desafio do bootcamp da Ri Happy - Front end do zero.
+Desafio do bootcamp Santander 2025 - Front-End
